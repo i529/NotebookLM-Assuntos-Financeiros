@@ -11,7 +11,9 @@ Essas foram as fontes utilizadas para alimentar a IA.
 
 Link 1:
 https://fia.com.br/blog/educacao-financeira/
+
 Link 2: https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf
+
 Link 3:
 https://educapes.capes.gov.br/bitstream/capes/430564/2/Apostila%20B%C3%A1sico%20em%20Finan%C3%A7as%20Pessoais.pdf
 
