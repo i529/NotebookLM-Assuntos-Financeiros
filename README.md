@@ -23,6 +23,14 @@ https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando
 Link 3:
 https://educapes.capes.gov.br/bitstream/capes/430564/2/Apostila%20B%C3%A1sico%20em%20Finan%C3%A7as%20Pessoais.pdf
 
+Link 4:
+
+https://www.educamaisbrasil.com.br/enem/educacao-financeira/financiamento
+
+Link 5: 
+
+https://cnseg.org.br/conteudos/10-dicas-fundamentais-para-aprimorar-sua-educacao-financeira
+
 # Prompts
 
 Não é necessário prompts muito complicados, como o foco é uma conversa, prompts como " como eu posso começar a entender esse mundo " já são o suficiente para começar o estudo, claro, prompts mais especificos geram respostas mais especificas. Aqui abaixo, deixarei alguns exemplos que utilizei para usufruir da melhor forma.
