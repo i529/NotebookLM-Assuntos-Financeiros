@@ -1,6 +1,10 @@
 # NotebookLM-Assuntos-Financeiros
 Desafio de projeto proporcionado pela DIO, aonde eu treino um assistente de pesquisa e análise com inteligência artificial do Google para analises de assuntos introdutórios financeiros.
 
+# Link para acesso!
+
+https://notebooklm.google.com/notebook/5a36ba44-9ec2-427d-a623-df7a8bf72f84
+
 # Contexto
 
 Esse repositório, armaneza as informações sobre a IA alimentada para ensinar sobre educação financeira de forma que qualquer iniciante entenda, tal qual uma conversa entre professor e aluno.
